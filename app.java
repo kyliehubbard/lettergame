@@ -1,8 +1,6 @@
 /*
 CISC-124 2023 Summer
-Name: Kylie Hubbard
-Student Number: 20294570
-Email: kylie.hubbard@queensu.ca
+
 Date: 2023-07-14
 I confirm that this assignment solution is my own work and conforms to Queen’s
 standards of Academic Integrity.
